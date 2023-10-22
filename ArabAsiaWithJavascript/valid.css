@@ -1,0 +1,15 @@
+body{
+    display: grid;
+    place-content: center;
+}
+
+p{
+    font-size: 7em;
+    color: grey;
+}
+
+span{
+    font-size: 1em;
+    color: #ff0000;
+    font-family: sans-serif;
+}
